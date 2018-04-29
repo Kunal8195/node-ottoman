@@ -7,7 +7,9 @@ of the boilerplate necessary to build Node.js apps with Couchbase.
 
 
 ## Useful Links
-
+ 
+build using couchbase sdk 
+ 
 Source - [http://github.com/couchbaselabs/node-ottoman](http://github.com/couchbaselabs/node-ottoman)
 
 Documentation - [http://ottomanjs.com/](http://ottomanjs.com/)
